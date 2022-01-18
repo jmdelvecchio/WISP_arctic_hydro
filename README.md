@@ -1,5 +1,7 @@
-# WISP_arctic_hydro
+# Exploratory Data Analysis (EDA) for WISP students!
  Part data tutorial, part data exploration with [Evans et al (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/hyp.13759) hydro data for Dartmouth interns
+ 
+ The Women In Science Project gets first-year women at Dartmouth College into research labs, and our lab is working with geospatial data in the Arctic. An essential part of this work will be taking existing data and extracting new topographic or ecological data that might explain historical trends others observe. For that we need to practice acquiring, cleaning and plotting "wide" datasets both as tabular and spatial data. 
  
  ## Set up
  1. Fork repository
