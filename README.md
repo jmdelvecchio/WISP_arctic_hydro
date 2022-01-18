@@ -5,11 +5,17 @@
  1. Fork repository
  2. Navigate to the repository in command prompt/anaconda prompt
  3. Create environment with the yml file:
- `conda env export > environment_droplet.yml`
+
+  `conda env export > environment_droplet.yml`
+ 
  4. Launch Jupyter notebook (if you're doing on Andes or Polaris, use no browser mode)
- `jupyter notebook --no-browser`
+ 
+  `jupyter notebook --no-browser`
+ 
  and don't forget to ssh tunnel for the notebook. Open another instance of your prompt and write
- `ssh -NfL xxxx:localhost:xxxx [your_user_ID]@[andes/polaris].dartmouth.edu`
+ 
+  `ssh -NfL xxxx:localhost:xxxx [your_user_ID]@[andes/polaris].dartmouth.edu`
+ 
  where `xxxx` is the four-digit localhost:xxxx port you see when you launch Jupyter Notebook 
  5. 'Splore some data! 
  
