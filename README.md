@@ -9,9 +9,8 @@
  3. Create environment with the yml file:
 
  `conda env create -f environment.yml`
+ 
  You should see an environment `wisp-eda` with a call to `conda env list`
-
-  `conda env export > environment_droplet.yml`
  
  4. Launch Jupyter notebook (if you're doing on Andes or Polaris, use no browser mode)
  
