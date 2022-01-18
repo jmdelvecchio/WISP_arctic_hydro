@@ -5,7 +5,8 @@
  1. Fork repository
  2. Navigate to the repository in command prompt/anaconda prompt
  3. Create environment with the yml file:
- `conda env export > environment_droplet.yml`
+ `conda env create -f environment.yml`
+ You should see an environment `wisp-eda` with a call to `conda env list`
  4. Launch Jupyter notebook (if you're doing on Andes or Polaris, use no browser mode)
  `jupyter notebook --no-browser`
  and don't forget to ssh tunnel for the notebook. Open another instance of your prompt and write
