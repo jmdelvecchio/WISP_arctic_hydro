@@ -1,0 +1,9 @@
+name: wisp_eda
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - geopandas
+  - rasterio
+  - fiona
