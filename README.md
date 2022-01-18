@@ -21,6 +21,7 @@
   `ssh -NfL xxxx:localhost:xxxx [your_user_ID]@[andes/polaris].dartmouth.edu`
  
  where `xxxx` is the four-digit localhost:xxxx port you see when you launch Jupyter Notebook 
+ 
  5. 'Splore some data! 
  
  My idea here with you forking this repository is that as we progess (read: as I figure out how to do things) I will add GIS files and scripts so we can do geospatial data analysis once we get there, and I can push those updates and you can pull them like real programmers...or something. 
