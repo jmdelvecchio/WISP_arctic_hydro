@@ -31,6 +31,21 @@
  <br>`ssh -NfL xxxx:localhost:xxxx [your_user_ID]@[andes/polaris].dartmouth.edu`
  where `xxxx` is the four-digit localhost:xxxx port you see when you launch Jupyter Notebook 
  
- 9.  'Splore some data! 
+ 9.  'Splore some data (after importing your libraries!!)! Two hints:
+ 
+ You will need to call your .csv tables from the `data_tables` directory, but I would *recommend* having your Jupyter Notebook file in your main WISP folder. What I do is designate a `data_dir` variable with the path of the directory in which I place my data, like so:
+ `data_dir = './data_tables/'`
+ The `.` tells you to use the current working directory (WISP) and then look for a directory called `data_tables`. I then use `os.path.join()` (info [here](https://docs.python.org/3/library/os.path.html)) when loading to pandas:
+ `df = pd.read_csv(os.path.join(data_dir,'evans_hydro_supplement.csv')`
+ 
+ BUT! You will see I have been very cruel and copy and pasted *directly* from the supplement, so pandas will not be happy.
+ I'll help you out here: read in the csv with a special-characters encoding, and then write a new csv with utf-8 encoding (some realistic data cleaning for you!)<br>
+ `df = pd.read_csv(os.path.join(data_dir,'evans_hydro_supplement.csv'), encoding='windows-1254')
+ df.to_csv(os.path.join(data_dir,'evans_hydro_supplement_new.csv'), encoding='utf-8', index=False)`
+ 
+ Now try `df = pd.read_csv(os.path.join(data_dir,'evans_hydro_supplement_new.csv'))` and see how it goes.
+
+
+
 
 My idea here with you cloning this repository with git (rather than just me emailing you data) is that as we progess (read: as I figure out how to do things) I will add GIS files and scripts so we can do geospatial data analysis once we get there, and I can push those updates and you can pull them like real programmers...or something. 
