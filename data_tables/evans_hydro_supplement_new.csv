@@ -1,0 +1,139 @@
+Station ID#,Name,Basin,Catchment area (km2),Latitude,Longitude,Station elevation (m.a.s.l.),Start year,End year,Continuous permafrost (%),Discontinuous permafrost (%),Sporadic permafrost (%),Isolated permafrost (%),No permafrost (%),Primary permafrost type,Prior primary permafrost type
+1001,Kolyma at Orotuk,Anadyr Kolyma,43776.00,62.12,148.47,478.2,1968,1996,100,0,0,0,0,Continuous,
+1095,Kulu at Kulu,Anadyr Kolyma,10289.00,61.9,147.42,617.1,1942,1994,100,0,0,0,0,Continuous,Continuous
+1151,Detrin at Detrin,Anadyr Kolyma,3237.00,61.13,149.67,556.5,1956,2001,100,0,0,0,0,Continuous,Continuous
+1176,Bokhalcha at 5.4 km from ust'ya,Anadyr Kolyma,13551.00,62.1,150.67,334,1934,1998,100,0,0,0,0,Continuous,Continuous
+1397,Anuy at Ostrovnoye,Anadyr Kolyma,30050.00,68.1,164.17,3,1960,1988,100,0,0,0,0,Continuous,Continuous
+1433,Palyavaam at Palyavaam,Anadyr Kolyma,8861.00,68.53,174.15,8,1978,1995,100,0,0,0,0,Continuous,
+1623,Srednekan (Srednikan) at Srednekan,Anadyr Kolyma,1742.00,62.33,152.33,240.5,1934,2000,100,0,0,0,0,Continuous,Continuous
+3003,Lena at Kachug,Lena,17433.00,53.97,105.88,506.1,1936,2001,0,0.8,63.8,35.4,0,Sporadic,Isolated
+3087,Kirenga at Shorokhovo,Lena,46571.00,57.63,108.12,254.2,1927,2001,12.3,32.2,53.4,2.1,0,Sporadic,Isolated
+3156,Nuya at Kurum,Lena,32600.00,60.27,114.73,173.1,1934,2002,,,,,,Discontinuous†,Discontinuous
+3157,Bol'shoy Patom at Patoma,Lena,26819.00,60.17,116.8,162.6,1934,2002,21.8,67.9,10.3,0,0,Discontinuous,Discontinuous
+3198,Zhuya at Svetly,Lena,4765.00,58.42,116.02,401,1948,2002,30.7,69.3,0,0,0,Discontinuous,
+3202,Namana at Myakinda,Lena,16706.00,60.9,120.8,139.7,1944,2002,83.6,16.4,0,0,0,Continuous,Continuous
+3206,Tuolba at Alekseevka,Lena,14420.00,60.28,124,147.1,1935,1998,82.6,17,0,0.4,0,Continuous,Continuous
+3210,Buotama at Brolog,Lena,12176.00,61.05,128.65,111,1936,2002,96.2,0,0,3.8,0,Continuous,Continuous
+3214,Shestakovka at Kamurdarustan,Lena,171.00,61.93,129.55,102.2,1951,2002,100,0,0,0,0,Continuous,Continuous
+3219,Aldan at Tommot,Lena,49601.00,58.97,126.27,272.6,1936,2002,31.1,61.4,7.5,0,0,Discontinuous,Sporadic
+3246,Timpton at Nagorny,Lena,613.00,55.97,124.88,830.5,1936,2002,100,0,0,0,0,Continuous,
+3277,Allakh-Yun' at Allakh,Lena,24246.00,60.68,135.03,45.5,1956,2002,100,0,0,0,0,Continuous,Continuous
+3291,Amga at Buyaga,Lena,23882.00,59.67,127.05,270.2,1937,2002,50.4,49.6,0,0,0,Continuous,Continuous
+3307,Kankeme at Vtoroy Stanok,Lena,3564.00,62.05,128.92,186.6,1946,2002,100,0,0,0,0,Continuous,
+3360,Kampenday at Kempenday,Lena,1303.00,62.02,118.63,169.4,1945,2002,100,0,0,0,0,Continuous,
+3403,Malaya Kuonapka at Dzhalinda,Lena,20270.00,70.13,113.97,31,1969,2002,100,0,0,0,0,Continuous,
+3414,Yana at Verkhoyansk,Lena,44919.00,67.34,133.38,124.9,1936,2002,100,0,0,0,0,Continuous,Continuous
+3483,Bytantay at Asar,Lena,39771.00,68.62,134.12,79.7,1937,2002,100,0,0,0,0,Continuous,Continuous
+3507,Algi at Algi (42 km up of the mouth),Lena,17504.00,64.4,142,593.8,1945,2002,100,0,0,0,0,Continuous,Continuous
+3510,Bol'shoy Artyk-Yuryakh at Bol'shoy Artyk-Yuryakh,Lena,642.00,64.46,141.86,590.5,1945,2002,100,0,0,0,0,Continuous,Continuous
+3518,Nera at Nerskaya Truda,Lena,22206.00,64.43,144.37,568.3,1944,2002,100,0,0,0,0,Continuous,Continuous
+7015,Verkhnyaya Angara at Verkhnyaya Zamika,Yenisei,22604.00,55.85,110.15,454.7,1939,2001,70.9,0,26.2,1.7,1.2,Continuous,
+7024,Barguzin at Barguzin,Yenisei,19830.00,53.6,109.6,467.4,1936,2001,53.4,0,22.4,24.3,0,Continuous,Isolated
+7036,Turka at SOb’olikha,Yenisei,5037.00,52.92,108.73,460.5,1938,2001,42.9,0,57.1,0,0,Sporadic,Continuous
+7072,Chikoy at Gremyachka,Yenisei,15587.00,50.3,108.63,740.9,1951,2001,52.3,27.7,19.9,0,0,Continuous,Discontinuous
+7102,Khilok at Khailastuy,Yenisei,38235.00,51.2,106.97,528.3,1936,2001,48.4,16.7,33.7,1.3,0,Continuous,Sporadic
+7125,Uda at Khorinsk,Yenisei,7856.00,52.15,109.75,657.8,1942,1997,35.8,0,64.2,0,0,Sporadic,Isolated
+7156,Bol'shaya Rechka at Posol'skoye,Yenisei,569.00,51.95,106.35,477.1,1936,2001,28.1,56.9,0,15,0,Discontinuous,Discontinuous
+7172,Utulik at Utulik,Yenisei,958.00,51.53,104.07,466.5,1941,2001,100,0,0,0,0,Continuous,Continuous
+8145,Kuda at Granovshina,Yenisei,7888.00,52.45,104.28,429.7,1938,2001,0,0,0,78,22,Isolated,
+8233,Iya at Tulun,Yenisei,14599.00,54.58,100.62,448.9,1936,2001,46.6,11.4,31.5,10.5,0,Continuous,Isolated
+8291,Irkineeva at BedOb’a,Yenisei,9024.00,58.8,97.23,151.1,1951,1988,0,0,28.3,71.7,0,Isolated,Isolated
+8331,Biryusa at Biryusinsk,Yenisei,24654.00,55.97,97.78,249.7,1936,1988,11.1,22.1,34.9,19.9,12.1,Sporadic,No permafrost
+9166,Us at Ust'-Zolotaya,Yenisei,6137.00,52.08,92.73,569.1,1951,1999,23.7,26.4,49.9,0,0,Sporadic,
+9207,Abakan at Abaza,Yenisei,14399.00,52.65,90.1,445,1936,1999,45.7,2.5,51.8,0.1,0,Continuous,Isolated
+9252,Tuba at Bugurtak,Yenisei,31800.00,53.8,92.87,283.8,1942,1999,17.8,33.4,4.5,32,12.3,Discontinuous,No permafrost
+9316,Mana at Mansky,Yenisei,9273.00,55.9,92.5,153,1936,1999,0,47.5,0,41,11.5,Discontinuous,No permafrost
+9337,Kan at Kansk,Yenisei,22685.00,56.22,95.7,198,1936,1999,7.3,21.7,25.4,19.6,26,No permafrost,No permafrost
+9372,Bol'shoy Pit at Bryanka,Yenisei,14803.00,59.12,93.48,144.9,1936,1999,0,0,0,100,0,Isolated,Isolated
+9404,Nizhnyaya Tunguska at Podvoloshino,Yenisei,8283.00,58.22,108.43,329.7,1921,1998,0,0,41.4,58.6,0,Isolated,
+9419,Tembenchy at Tembenchy,Yenisei,18782.00,64.95,98.9,187,1939,1993,100,0,0,0,0,Continuous,Continuous
+9422,Yerachimo at Bol'shoy Porog,Yenisei,8916.00,65.65,90.12,42.8,1949,1999,91.4,8.6,0,0,0,Continuous,
+9425,Turukhan at Yanov Stan,Yenisei,9282.00,65.98,84.27,11.9,1941,1999,0.2,99.8,0,0,0,Discontinuous,Discontinuous
+9431,Graviyka at Igarka,Yenisei,293.00,67.5,86.6,38.9,1938,1992,100,0,0,0,0,Continuous,
+9455,Norilka at Valek,Yenisei,19718.00,69.42,88.32,27,1961,1999,100,0,0,0,0,Continuous,
+10062,Chulyshman at Balukhuca,Ob,16574.00,51.28,87.72,435.1,1938,2002,28.7,55.9,15.4,0,0,Discontinuous,Sporadic
+10066,Katun' at Tyungur,Ob,13661.00,50.13,86.32,845.6,1956,2003,7.2,27.9,57.2,0,7.7,Sporadic,Continuous
+10117,Peschanaya at Tochil'noye,Ob,4733.00,52.17,85.17,181.7,1936,2002,0,4.3,48,0,47.7,Sporadic,
+10126,Charysh at Ust'-Kumir,Ob,3499.00,51.02,84.32,719.3,1933,2002,0,1,25.2,0,73.8,No permafrost,Sporadic
+10176,Chumish at Zarinsk,Ob,15900.00,53.73,84.95,160.3,1954,2002,0,0,0,0,100,No permafrost,No permafrost
+10219,Inya (Nyzhnyaya) at Kaily,Ob,15700.00,55.32,84.1,119.2,1932,2002,0,0,0,0,100,No permafrost,No permafrost
+10259,Usa at Mezhdurechensk,Ob,3327.00,53.68,88.08,240,1938,2000,0,0,0,53.6,46.4,Isolated,
+10277,Kondoma at Kuzedeevo,Ob,7142.00,53.33,87.23,225.2,1937,2002,0,0,0,5.6,94.4,No permafrost,No permafrost
+10317,Chulym at Balakhta,Ob,14734.00,55.38,91.62,293.1,1939,2003,0,0,0,66.2,33.8,Isolated,No permafrost
+10387,Kiya at Marizhinsk,Ob,10339.00,56.2,87.78,119.6,1937,2002,0,0,0,14.7,85.3,No permafrost,No permafrost
+10407,Yaya at Yaya,Ob,3438.00,56.18,86.4,130.4,1935,2003,0,0,0,0,100,No permafrost,No permafrost
+10428,Chaya at Podgoenoye,Ob,25000.00,57.78,82.63,60.7,1938,2002,0,0,0,0,100,No permafrost,No permafrost
+10444,Iksa at Plotnikovo,Ob,2560.00,56.85,83.07,99,1933,2002,0,0,0,0,100,No permafrost,No permafrost
+10466,Paidugina at Berezovka,Ob,6655.00,59.37,82.83,72.8,1955,2003,0,0,0,88.9,11.1,Isolated,No permafrost
+10478,Vasyugan at Sredny Vasyugan,Ob,31434.00,59.22,78.22,52.6,1937,2002,0,0,0,0.5,99.5,No permafrost,No permafrost
+10489,Tim at Napas,Ob,24523.00,59.85,81.95,60.6,1938,2002,0,0,0,95.3,4.7,Isolated,Isolated
+10505,Bol'shoy Yugan at Ugut,Ob,19451.00,60.5,74.02,31.4,1945,1994,0,0,0,2.7,97.3,No permafrost,Isolated
+10524,Kulunda at Shimolino,Ob,12300.00,52.97,80.18,93.3,1936,2002,0,0,0,0,100,No permafrost,No permafrost
+10549,Kargat at Zdvinsk,Ob,6440.00,54.7,78.67,103.9,1941,2002,0,0,0,0,100,No permafrost,No permafrost
+11309,Om' at Kuibyshev,Ob,12200.00,55.45,78.32,104.2,1938,2002,0,0,0,0,100,No permafrost,No permafrost
+11353,Tara at Muromtsevo,Ob,16400.00,56.38,75.25,61.1,1941,1999,0,0,0,0,100,No permafrost,No permafrost
+11496,Balakhley at Balakhley,Ob,2140.00,57.13,69.22,57.7,1953,1998,0,0,0,0,100,No permafrost,No permafrost
+11548,Lyapin at Saran-Paul,Ob,18861.00,64.25,60.95,13.6,1952,1994,53.5,42.2,4.3,0,0,Continuous,Discontinuous
+11556,SOb’' at Harp,Ob,1219.00,66.87,65.78,69.1,1952,1998,100,0,0,0,0,Continuous,Continuous
+11558,Poluy at Poluy,Ob,15230.00,66.03,68.73,5.7,1953,1998,0,100,0,0,0,Discontinuous,Discontinuous
+11574,Pyaku-Pur at Tarko-Sale,Ob,31152.00,64.93,77.8,15.3,1954,1998,0,79.3,20.7,0,0,Discontinuous,Discontinuous
+11805,Nadym at Nadym,Ob,48789.00,65.62,72.67,7.6,1955,1991,0,90.1,9.9,0,0,Discontinuous,Discontinuous
+12155,Sinara at Verkhvekluchevskoye,Ob,5000.00,56.25,62.27,98.3,1936,1993,0,0,0,0,100,No permafrost,
+12430,Sosva at Denezhkino,Ob,4401.00,60.22,60.42,110.8,1933,1993,0,0,4,0.1,95.8,No permafrost,No permafrost
+12517,LOb’va at LOb’va,Ob,2900.00,59.15,60.52,82.3,1939,1993,0,0,29.5,0,70.5,No permafrost,No permafrost
+49017,Tumcha at Alakurtty,N. European Russia,2099.00,66.9,30.33,131.1,1958,1991,0,3.1,0,0,96.9,No permafrost,No permafrost
+49025,Keret at zh/d most,N. European Russia,2560.00,66.2,32.9,66.1,1956,1988,0,0,0,0,100,No permafrost,
+49030,Kuzema at Kuzema,N. European Russia,882.00,65.38,34.23,0,1958,1987,0,0,0,0,100,No permafrost,
+49031,Pongoma at Pongoma,N. European Russia,1220.00,65.33,34.38,5.6,1940,1988,0,0,0,0,100,No permafrost,
+49033,Pueta at Kem,N. European Russia,48.00,64.95,34.62,1,1956,1988,0,0,0,0,100,No permafrost,No permafrost
+49036,Kem at Yushkozero,N. European Russia,19800.00,64.78,32.17,88.1,1936,1987,0,0,0,0,100,No permafrost,No permafrost
+49041,Kem at Putkinskaya GES,N. European Russia,27700.00,64.93,34.48,,1936,1988,0,0,0,0,100,No permafrost,
+49052,Ukhta at Kalevala,N. European Russia,361.00,65.22,31.15,114.3,1953,1988,0,0,0,0,100,No permafrost,No permafrost
+49055,Chirko-Kem at Andronova Gova,N. European Russia,2730.00,64.15,32.38,135.5,1932,1988,0,0,0,0,100,No permafrost,No permafrost
+49070,Shuya at Shuyeretskoye,N. European Russia,934.00,64.75,34.7,0.2,1935,1988,0,0,0,0,100,No permafrost,No permafrost
+49123,Suma at Sumskiy Posad,N. European Russia,1990.00,64.25,35.43,3.6,1932,1988,0,0,0,0,100,No permafrost,No permafrost
+49125,Nyukhcha at Nyukhcha,N. European Russia,1350.00,63.92,36.22,4,1956,1988,0,0,0,0,100,No permafrost,
+49126,Maloshuika at Maloshuika,N. European Russia,481.00,63.75,37.4,22,1950,1988,0,0,0,0,100,No permafrost,No permafrost
+70016,Vozhega at Nazarovskaya,N. European Russia,1590.00,60.53,39.55,125.7,1955,1988,0,0,0,0,100,No permafrost,No permafrost
+70023,Lekshma at Lyadiny,N. European Russia,321.00,61.57,38.28,150.9,1960,1988,0,0,0,0,100,No permafrost,No permafrost
+70043,Kodina at Kodino,N. European Russia,1800.00,63.72,39.62,25,1954,2000,0,0,0,0,100,No permafrost,No permafrost
+70047,Solza at Sukhie Porogy,N. European Russia,1190.00,64.38,39.4,77.4,1936,2000,0,0,0,0,100,No permafrost,No permafrost
+70085,Sukhona at Raban'ga,N. European Russia,15500.00,59.43,40.22,105.7,1936,2002,0,0,0,0,100,No permafrost,No permafrost
+70117,Kubena at Troitse-Yenal'skoye,N. European Russia,1110.00,60.55,40.42,146.5,1936,2000,0,0,0,0,100,No permafrost,No permafrost
+70129,Ema at Novoye,N. European Russia,179.00,59.12,39.67,134.2,1946,2000,0,0,0,0,100,No permafrost,No permafrost
+70146,Uphtyuga at Koleno,N. European Russia,2360.00,60.38,44.13,87.7,1953,1988,0,0,0,0,100,No permafrost,No permafrost
+70209,Voch at Verkhnaya Voch,N. European Russia,1600.00,61.13,54.2,114.2,1960,2000,0,0,0,0,100,No permafrost,No permafrost
+70231,Egul at Chukhlom,N. European Russia,123.00,61.25,50.1,104,1946,2000,0,0,0,0,100,No permafrost,No permafrost
+70238,Vim at Veslyana,N. European Russia,19100.00,62.98,50.88,80.9,1936,2002,0,0,0,0,100,No permafrost,No permafrost
+70302,Lel' at Zeleninskaya,N. European Russia,2240.00,62.25,42.67,31,1936,2000,0,0,0,0,100,No permafrost,No permafrost
+70309,Yemtsa at Most,N. European Russia,1860.00,62.97,40.32,66.6,1928,2000,0,0,0,0,100,No permafrost,No permafrost
+70334,Pinega at Kulogory,N. European Russia,36700.00,64.72,43.48,12.8,1936,2002,0,0,0,0,100,No permafrost,
+70363,Zolotitsa at Verkhnaya Zolotitsa,N. European Russia,1840.00,65.67,40.42,-0.2,1957,1988,0,0,0,0,100,No permafrost,No permafrost
+70366,Kuloy at Kuloy,N. European Russia,3040.00,64.97,43.52,11.2,1936,1991,0,0,0,0,100,No permafrost,No permafrost
+70401,Peza at Igumnovo,N. European Russia,11893.00,65.82,45.1,11.5,1933,1993,0,0,0,16.8,83.2,No permafrost,
+70403,Pesha at Volokovaya,N. European Russia,2548.00,66.5,48.25,7.1,1966,1993,0,0,0,0,100,No permafrost,
+70410,Pechora at Yaksha,N. European Russia,9582.00,61.82,56.85,119,1936,2002,0,0,0,0,100,No permafrost,
+70452,Vel'-Yu at Konosh-Yel',N. European Russia,2050.00,63.4,55.8,97.5,1959,1988,0,0,0,0,100,No permafrost,No permafrost
+70497,Khoseda-Yu at Khoseda-khard,N. European Russia,2251.00,67.03,59.4,57.5,1958,2000,28.7,31,17,23.3,0,Discontinuous,Isolated
+70499,Kolva at Khorey-Ver,N. European Russia,5884.00,67.42,58.07,57.4,1958,2000,11,11.9,44.3,32.8,0,Sporadic,Sporadic
+70509,Izhma at Ust'-Ukhta,N. European Russia,15000.00,63.62,53.9,65.6,1913,2002,0,0,0,0,100,No permafrost,No permafrost
+70530,Pizhma at Levkinskaya,N. European Russia,2250.00,64.77,51.1,124.9,1957,2000,0,0,0,0,100,No permafrost,No permafrost
+70540,Sula at Kotkina,N. European Russia,8395.00,67.03,51.13,8,1936,2001,3.5,7.3,36.6,17.6,35,Sporadic,Sporadic
+70542,Ruchey Nyashenny at Kotkina,N. European Russia,35.00,67.03,51.15,16.7,1946,2000,0,0,100,0,0,Sporadic,Sporadic
+71035,Titovka at 15.5 km ot ust'ya,N. European Russia,947.00,69.55,36.5,64.2,1953,1994,0,0,30.7,69.3,0,Isolated,No permafrost
+71044,Ura at Ura-Guba,N. European Russia,1020.00,69.27,32.8,1.4,1935,1994,0,0,0,0,100,No permafrost,No permafrost
+71067,Pecha at Padum,N. European Russia,1600.00,68.56,31.7,23,1936,1994,0,0,0,0,100,No permafrost,No permafrost
+71085,Lotta at Kallokosky,N. European Russia,2540.00,68.6,31.01,105.1,1960,1994,0,0,0,0,100,No permafrost,No permafrost
+71104,Kola at 1429 km Oktyabr'skoy zh/d,N. European Russia,3780.00,68.83,30.8,23.4,1928,1994,0,0,0,0,100,No permafrost,No permafrost
+71139,Nivka at Ust'e,N. European Russia,202.00,68.1,35.1,154.1,1939,1994,0,0,0,0,100,No permafrost,No permafrost
+71162,Iokan'ga at Kolm'yavr,N. European Russia,374.00,67.83,36.83,214.1,1952,1994,0,0,47.2,0,52.8,No permafrost,No permafrost
+71168,Ponoy at Kanevka,N. European Russia,10231.00,67.13,37.66,124.3,1949,2003,0,0,12.6,12.5,74.9,No permafrost,
+71175,Sosnovka at Sosnovka,N. European Russia,268.00,66.48,45.5,15.4,1948,1994,0,0,36.8,63.2,0,Isolated,Isolated
+71186,Varzuga at Varzuga,N. European Russia,7940.00,66.4,36.3,8.8,1935,1994,0,0,0,0,100,No permafrost,
+71188,Olenitsa at Olenitsa,N. European Russia,374.00,66.48,33.7,7.8,1947,1988,0,0,0,0,100,No permafrost,No permafrost
+71192,Kuzreka at Kuzreka,N. European Russia,250.00,66.63,34.8,7.8,1946,1994,0,0,0,0,100,No permafrost,No permafrost
+71193,Umba at Istok,N. European Russia,2390.00,67.53,34.28,148.5,1935,1994,0,0,12.5,0,87.5,No permafrost,No permafrost
+71199,Umba at Payalka,N. European Russia,6920.00,66.72,33.3,3.5,1936,1994,0,0,0,0,100,No permafrost,
+71222,Kolviza at Kolviza,N. European Russia,1260.00,67.08,30.7,35.8,1933,1994,0,0,0,0,100,No permafrost,No permafrost
+71241,Yena at Yena,N. European Russia,1564.00,67.56,31.01,151.3,1936,1994,0,0,0,0,100,No permafrost,No permafrost
+71258,Monch at Monchegorsk,N. European Russia,1476.00,67.96,32.86,128,1933,1994,0,0,0,1.9,98.1,No permafrost,No permafrost

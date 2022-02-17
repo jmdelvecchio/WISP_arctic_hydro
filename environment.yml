@@ -2,6 +2,7 @@ name: wisp_eda
 dependencies:
   - numpy
   - pandas
+  - jupyter
   - matplotlib
   - seaborn
   - geopandas
