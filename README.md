@@ -50,7 +50,7 @@
 
 My idea here with you cloning this repository with git (rather than just me emailing you data) is that as we progess (read: as I figure out how to do things) I will add GIS files and scripts so we can do geospatial data analysis once we get there, and I can push those updates and you can pull them like real programmers...or something. 
 
-##Your task:
+## Your task:
 1. Export clean data tables as .csv files
 2. Make one scatterplot in which you either have sybols' shapes or colors reflect different categorical variables
 3. Make one map of watershed boundaries in which the polygons' colors reflect different categorical variables
