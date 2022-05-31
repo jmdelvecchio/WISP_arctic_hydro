@@ -1,3 +1,8 @@
+# Women in Science Project (WISP) at Dartmouth 
+<b>Investigating the Relationship between Arctic Discharge and Arctic Landscape Change</b> by Supriya Ganti, Maya Magee and Joanmarie Del Vecchio
+
+<i> GitHub default text below </i>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jmdelvecchio/WISP_arctic_hydro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
