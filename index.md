@@ -3,13 +3,12 @@
 
 <i> GitHub default text below </i>
 
-## Welcome to GitHub Pages
+## Background
+The Evans et al paper studies the annual change in baseflow in Russian watersheds. Continuous permafrost have an increasing trend in their recession flow, which indicates an increasing active layer thickness. Discontinuous permafrost demonstrated decreasing trends in their recession flow intercepts, indicating that water is draining through other means aside from active layer thickness. Building off this, we investigated whether previously recognized trends in discharge have any relationship with trends regarding various spectral indices. 
 
-You can use the [editor on GitHub](https://github.com/jmdelvecchio/WISP_arctic_hydro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Methods 
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
