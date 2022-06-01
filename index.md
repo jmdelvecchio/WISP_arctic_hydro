@@ -9,6 +9,29 @@ The Evans et al paper studies the annual change in baseflow in Russian watershed
 
 ### Methods 
 
+![Flow_Chart]# Women in Science Project (WISP) at Dartmouth 
+2
+<b>Investigating the Relationship between Arctic Discharge and Arctic Landscape Change</b> by Supriya Ganti, Maya Magee and Joanmarie Del Vecchio
+3
+​
+4
+<i> GitHub default text below </i>
+5
+​
+6
+## Background
+7
+The Evans et al paper studies the annual change in baseflow in Russian watersheds. Continuous permafrost have an increasing trend in their recession flow, which indicates an increasing active layer thickness. Discontinuous permafrost demonstrated decreasing trends in their recession flow intercepts, indicating that water is draining through other means aside from active layer thickness. Building off this, we investigated whether previously recognized trends in discharge have any relationship with trends regarding various spectral indices. 
+8
+​
+9
+​
+10
+### Methods 
+11
+​
+12
+![Flow Chart](708AD00A-7576-47E3-8BC7-BAEE26FD5549.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
