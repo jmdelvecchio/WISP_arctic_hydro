@@ -7,9 +7,34 @@
 The Evans et al paper studies the annual change in baseflow in Russian watersheds. Continuous permafrost have an increasing trend in their recession flow, which indicates an increasing active layer thickness. Discontinuous permafrost demonstrated decreasing trends in their recession flow intercepts, indicating that water is draining through other means aside from active layer thickness. Building off this, we investigated whether previously recognized trends in discharge have any relationship with trends regarding various spectral indices. 
 
 
-### Methods 
+### Methods
 
-![Flow_Chart]# Women in Science Project (WISP) at Dartmouth 
+![WISP flow chart](https://user-images.githubusercontent.com/69035932/171483775-fcd5e996-8180-4fca-b892-903bb441b3ec.jpeg)
+
+
+SPECTRAL INDICES:
+We used datasets from Google Earth Engine to  view changes in spectral signatures and used Landsat 5 satellite data to calculate the NDVI, NBR, NDWI and NDMI over time in order to investigate trends of Arctic landscape change.
+
+Normalized Difference Vegetation Index (NDVI) estimates the density of green on an area of land.
+NDVI = (NIR - RED) / (NIR + RED)
+(NIR = near-infrared reflectance & RED - visible red reflectance)
+
+Normalized Burn Ratio (NBR) is used to identify burned areas and provide a measure of burn severity. 
+NBR = (NIR - SWIR) / (NIR + SWIR)
+
+Normalized Difference Water Index (NDWI) measures moisture content to see changes in water content of bodies of water. 
+NDWI = (Green – NIR)/(Green + NIR) (Green = visible green spectrum)
+
+Normalized Difference Moisture Index (NDMI) determines moisture levels within vegetation. 
+NDMI = (NIR – SWIR) / (NIR + SWIR) 
+(SWIR = short wave infrared reflectance)
+
+
+
+
+
+
+# Women in Science Project (WISP) at Dartmouth 
 2
 <b>Investigating the Relationship between Arctic Discharge and Arctic Landscape Change</b> by Supriya Ganti, Maya Magee and Joanmarie Del Vecchio
 3
@@ -29,9 +54,7 @@ The Evans et al paper studies the annual change in baseflow in Russian watershed
 10
 ### Methods 
 11
-​
-12
-![Flow Chart](708AD00A-7576-47E3-8BC7-BAEE26FD5549.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
